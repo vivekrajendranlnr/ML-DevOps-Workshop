@@ -1,0 +1,1 @@
+from SentimentAnalyser.model import SentimentAnalyzer
